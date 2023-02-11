@@ -1,7 +1,7 @@
 # Battleship
 
 ## Programmer
-[computeh](github.com/computeh)
+[calebyg](github.com/calebyg)
 
 ## About Game
 Battleship is a classic two-player game that involves players choosing coordinates on a grid to attack their opponent's fleet.
